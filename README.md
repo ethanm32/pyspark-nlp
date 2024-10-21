@@ -18,7 +18,6 @@ To run this project, you'll need the following installed on your machine:
 
 - Python 3.x
 - PySpark
-- Jupyter Notebook
 
 You can install the required packages using `pip`:
 
