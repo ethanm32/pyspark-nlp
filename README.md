@@ -24,6 +24,6 @@ You can install the required packages using `pip`:
 ```bash
 pip install pyspark
 pip install jupyter
-
+```
 You can check out the [PDF document](nlp-spark-document.pdf).
 and the code [View the Code](spark-nlp.py)
